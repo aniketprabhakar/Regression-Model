@@ -10,7 +10,7 @@ Predicting Hotel Booking Cancellation Is a machine learning classification proje
       * Firstly we will import all the required libraies such as pandas, numpy, matplotlib, seaborn.
   
 ## Data cleaning:
-      * Then we will check the shape of data and will remove all the null values.
+      * Then we will check the shape of data, rows and columns, null values and will then remove all the null values.
       
 ## Exploratory Data Analysis:
       * Feature Engineering
