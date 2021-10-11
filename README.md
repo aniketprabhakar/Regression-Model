@@ -16,6 +16,7 @@ Predicting Hotel Booking Cancellation Is a machine learning classification proje
       * Feature Engineering
       * Binning
       * Aggregating Columns
+      * Cleaning Data
       * Visualization
       * Insight & Conclusion
 
